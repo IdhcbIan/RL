@@ -1,0 +1,2 @@
+gym[classic_control]>=0.26,<0.27
+torch>=2.0
